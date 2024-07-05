@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/game">
+        <file>gr</file>
+        <file>regu</file>
+        <file>hiar</file>
+        <file>br</file>
+        <file>table</file>
+        <file>ta</file>
+        <file>ast</file>
+        <file>b</file>
+        <file>purr</file>
+        <file>t2</file>
+        <file>t3</file>
+    </qresource>
+</RCC>
