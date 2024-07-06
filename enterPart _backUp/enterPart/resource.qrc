@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Game">
+        <file>G1</file>
+        <file>G2</file>
+        <file>G3</file>
+        <file>back</file>
+        <file>back2</file>
+        <file>back3</file>
+    </qresource>
+</RCC>
